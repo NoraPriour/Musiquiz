@@ -1,0 +1,1216 @@
+{
+    "quiz": [
+        {
+            "id": 1,
+            "category": "Pop",
+            "question": "Quel est le vrai nom de Lady Gaga ?",
+            "options": [
+                "Stefani Germanotta",
+                "Alicia Moore",
+                "Robyn Fenty",
+                "Melissa Jefferson"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 2,
+            "category": "Pop",
+            "question": "Quel album de Beyoncé sorti en 2016 raconte une histoire de trahison conjugale à travers un film visuel ?",
+            "options": [
+                "B'Day",
+                "4",
+                "Lemonade",
+                "Renaissance"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 3,
+            "category": "Pop",
+            "question": "Taylor Swift a re-enregistré ses anciens albums pour les récupérer. Comment appelle-t-on ces versions ?",
+            "options": [
+                "Redux",
+                "Taylor's Version",
+                "Remastered",
+                "Vault Edition"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 4,
+            "category": "Pop",
+            "question": "Quelle artiste a établi en janvier 2023 un record Spotify de streams en une semaine avec « Flowers » ?",
+            "options": [
+                "Dua Lipa",
+                "Ariana Grande",
+                "Miley Cyrus",
+                "Selena Gomez"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 5,
+            "category": "Pop",
+            "question": "Quel duo pop a sorti « Shallow » pour la BO du film A Star Is Born (2018) ?",
+            "options": [
+                "Billie Eilish & Finneas",
+                "Lady Gaga & Bradley Cooper",
+                "Dua Lipa & Elton John",
+                "Adele & Sam Smith"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 6,
+            "category": "Pop",
+            "question": "Quel groupe de K-pop composé de 7 membres interprète « Dynamite » et « Butter » ?",
+            "options": [
+                "BLACKPINK",
+                "EXO",
+                "BTS",
+                "TWICE"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 7,
+            "category": "Pop",
+            "question": "Comment s'appelle l'album solo de Harry Styles sorti en 2022, nommé Album de l'année aux Grammy ?",
+            "options": [
+                "Fine Line",
+                "Harry's House",
+                "One Direction",
+                "Watermelon Sugar"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 8,
+            "category": "Pop",
+            "question": "Quel artiste a collaboré avec Ed Sheeran sur le titre « I Don't Care » (2019) ?",
+            "options": [
+                "Justin Timberlake",
+                "Justin Bieber",
+                "Bruno Mars",
+                "Charlie Puth"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 9,
+            "category": "Pop",
+            "question": "Quel est le pays d'origine de la chanteuse Dua Lipa ?",
+            "options": [
+                "Albanie (Kosovo)",
+                "Suède",
+                "Australie",
+                "Norvège"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 10,
+            "category": "Pop",
+            "question": "Quel album de Billie Eilish sorti en 2019 l'a rendue mondialement célèbre ?",
+            "options": [
+                "Happier Than Ever",
+                "Hit Me Hard and Soft",
+                "When We All Fall Asleep, Where Do We Go?",
+                "Don't Smile at Me"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 11,
+            "category": "Hip-hop & Rap",
+            "question": "Quel rappeur américain a sorti l'album « To Pimp a Butterfly » en 2015 ?",
+            "options": [
+                "J. Cole",
+                "Kendrick Lamar",
+                "Drake",
+                "Tyler, the Creator"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 12,
+            "category": "Hip-hop & Rap",
+            "question": "Quel est le vrai nom de Cardi B ?",
+            "options": [
+                "Belcalis Almánzar",
+                "Onika Maraj",
+                "Melissa Viviane Jefferson",
+                "Shayaa Joseph"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 13,
+            "category": "Hip-hop & Rap",
+            "question": "Quelle est la ville d'origine de Drake ?",
+            "options": [
+                "New York",
+                "Atlanta",
+                "Toronto",
+                "Los Angeles"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 14,
+            "category": "Hip-hop & Rap",
+            "question": "Quel rappeur a lancé le label « Dreamville Records » ?",
+            "options": [
+                "Wale",
+                "J. Cole",
+                "Big Sean",
+                "Meek Mill"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 15,
+            "category": "Hip-hop & Rap",
+            "question": "Quel titre de Doja Cat (2021) a popularisé une tendance massive sur TikTok avec sa danse ?",
+            "options": [
+                "Say So",
+                "Kiss Me More",
+                "Need to Know",
+                "Woman"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 16,
+            "category": "Hip-hop & Rap",
+            "question": "Quel est le nom du label de rap fondé par Jay-Z et dont Rihanna fait partie ?",
+            "options": [
+                "Interscope",
+                "Def Jam",
+                "Roc Nation",
+                "Atlantic Records"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 17,
+            "category": "Hip-hop & Rap",
+            "question": "De quel album de Travis Scott (2018) est issu le titre « Sicko Mode » ?",
+            "options": [
+                "Birds in the Trap Sing McKnight",
+                "Rodeo",
+                "Astroworld",
+                "Utopia"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 18,
+            "category": "Hip-hop & Rap",
+            "question": "Quel rappeur français a sorti l'album « Civilisation » en 2021 ?",
+            "options": [
+                "Nekfeu",
+                "Orelsan",
+                "PNL",
+                "SCH"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 19,
+            "category": "Hip-hop & Rap",
+            "question": "Quel duo français est connu pour ses clips ultra-minimalistes et son univers mélancolique ?",
+            "options": [
+                "Bigflo & Oli",
+                "Lomepal & Eddy de Pretto",
+                "PNL",
+                "Oxmo Puccino & Disiz"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 20,
+            "category": "Hip-hop & Rap",
+            "question": "Quel rappeur a reçu le Prix Pulitzer de musique en 2018, une première pour le hip-hop ?",
+            "options": [
+                "Kanye West",
+                "Kendrick Lamar",
+                "Jay-Z",
+                "Nas"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 21,
+            "category": "Rock & Metal",
+            "question": "Quel groupe est derrière le hit « Smells Like Teen Spirit » (1991) ?",
+            "options": [
+                "Pearl Jam",
+                "Soundgarden",
+                "Nirvana",
+                "Alice in Chains"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 22,
+            "category": "Rock & Metal",
+            "question": "Quel guitariste légendaire est connu pour jouer sa guitare derrière son dos et avec les dents ?",
+            "options": [
+                "Eric Clapton",
+                "Jimi Hendrix",
+                "Jimmy Page",
+                "Carlos Santana"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 23,
+            "category": "Rock & Metal",
+            "question": "De quel artiste le film « Bohemian Rhapsody » (2018) retrace-t-il la vie ?",
+            "options": [
+                "David Bowie",
+                "Elton John",
+                "Freddie Mercury",
+                "Mick Jagger"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 24,
+            "category": "Rock & Metal",
+            "question": "Quel groupe irlandais est connu pour ses albums « The Joshua Tree » et « Achtung Baby » ?",
+            "options": [
+                "U2",
+                "The Cranberries",
+                "Coldplay",
+                "Snow Patrol"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 25,
+            "category": "Rock & Metal",
+            "question": "Quel groupe de metal est à l'origine de « Master of Puppets » (1986) ?",
+            "options": [
+                "Slayer",
+                "Megadeth",
+                "Metallica",
+                "Pantera"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 26,
+            "category": "Rock & Metal",
+            "question": "Qui est le chanteur des Foo Fighters, ex-batteur de Nirvana ?",
+            "options": [
+                "Eddie Vedder",
+                "Chris Cornell",
+                "Dave Grohl",
+                "Scott Weiland"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 27,
+            "category": "Rock & Metal",
+            "question": "Quel groupe britannique a sorti « AM » en 2013, considéré comme un tournant du rock indie ?",
+            "options": [
+                "The Strokes",
+                "Arctic Monkeys",
+                "Vampire Weekend",
+                "Tame Impala"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 28,
+            "category": "Rock & Metal",
+            "question": "Quelle chanteuse est surnommée « la reine du punk rock » et a sorti « Complicated » en 2002 ?",
+            "options": [
+                "Paramore",
+                "Avril Lavigne",
+                "Pink",
+                "Evanescence"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 29,
+            "category": "Rock & Metal",
+            "question": "Quel groupe australien est connu pour son logo en éclairs et l'album « Back in Black » ?",
+            "options": [
+                "INXS",
+                "Midnight Oil",
+                "AC/DC",
+                "Men at Work"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 30,
+            "category": "Rock & Metal",
+            "question": "À quel genre musical émergent des années 2010 Tame Impala est-il souvent associé ?",
+            "options": [
+                "Shoegaze",
+                "Neo-soul",
+                "Psychedelic pop / rock",
+                "Post-punk revival"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 31,
+            "category": "Électro & Dance",
+            "question": "Quel DJ français est membre du duo Daft Punk avec Guy-Manuel de Homem-Christo ?",
+            "options": [
+                "Jean-Michel Jarre",
+                "Laurent Garnier",
+                "Thomas Bangalter",
+                "Étienne de Crécy"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 32,
+            "category": "Électro & Dance",
+            "question": "Quel duo électro portait des casques de robots dorés et argentés ?",
+            "options": [
+                "Justice",
+                "Daft Punk",
+                "Kraftwerk",
+                "Chemical Brothers"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 33,
+            "category": "Électro & Dance",
+            "question": "Quel genre musical est associé à la ville de Detroit et est considéré comme la source de la techno ?",
+            "options": [
+                "House de Chicago",
+                "Techno de Detroit",
+                "Drum and Bass de Londres",
+                "Trance d'Amsterdam"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 34,
+            "category": "Électro & Dance",
+            "question": "Quel artiste est derrière les hits « Levels » et « Wake Me Up » ?",
+            "options": [
+                "Martin Garrix",
+                "Avicii",
+                "Zedd",
+                "Calvin Harris"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 35,
+            "category": "Électro & Dance",
+            "question": "Quels artistes emblématiques ont popularisé la French Touch dans les années 90 ?",
+            "options": [
+                "Air, Cassius, Etienne de Crécy",
+                "Daft Punk, Justice, SebastiAn",
+                "Daft Punk, Cassius, Bob Sinclar",
+                "Kavinsky, Breakbot, Madeon"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 36,
+            "category": "Électro & Dance",
+            "question": "Que désigne le « drop » dans une musique électronique ?",
+            "options": [
+                "La baisse du volume à la fin",
+                "Le moment où le beat explose après une montée",
+                "Une erreur de mixage",
+                "L'intro instrumentale"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 37,
+            "category": "Électro & Dance",
+            "question": "Quel festival de musique électronique se déroule chaque année dans le désert du Nevada ?",
+            "options": [
+                "Tomorrowland",
+                "Coachella",
+                "Burning Man",
+                "Ultra Music Festival"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 38,
+            "category": "Électro & Dance",
+            "question": "Quel producteur est connu pour avoir créé le style « lo-fi hip-hop » popularisé sur YouTube ?",
+            "options": [
+                "Nujabes",
+                "J Dilla",
+                "Knxwledge",
+                "Flying Lotus"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 39,
+            "category": "Électro & Dance",
+            "question": "Quel logiciel de production musicale parmi les suivants est développé par Apple et uniquement disponible sur macOS ?",
+            "options": [
+                "FL Studio",
+                "Logic Pro",
+                "Ableton Live",
+                "Reaper"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 40,
+            "category": "Électro & Dance",
+            "question": "Quel titre de Stromae (2010) a lancé sa carrière internationale et popularisé son mélange d'électro et de chanson francophone ?",
+            "options": [
+                "Alors on danse",
+                "Papaoutai",
+                "Formidable",
+                "Santé"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 41,
+            "category": "Pop",
+            "question": "Quel est le vrai nom de The Weeknd ?",
+            "options": [
+                "Abel Makkonen Tesfaye",
+                "Aubrey Graham",
+                "Rakim Mayers",
+                "Peter Gene Hernandez"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 42,
+            "category": "R&B & Soul",
+            "question": "Quel album de Frank Ocean sorti en 2016 a révolutionné le R&B contemporain ?",
+            "options": [
+                "Channel Orange",
+                "Blonde",
+                "Nostalgia, Ultra",
+                "Boys Don't Cry"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 43,
+            "category": "R&B & Soul",
+            "question": "Quel est le surnom de la chanteuse Rihanna dans l'univers de la mode et des affaires ?",
+            "options": [
+                "Queen Ri",
+                "Bad Gal RiRi",
+                "Robyn",
+                "Fenty"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 44,
+            "category": "R&B & Soul",
+            "question": "Quel artiste a popularisé la soul moderne avec des albums comme « Gold-Diggers Sound » (2021) ?",
+            "options": [
+                "Leon Bridges",
+                "SZA",
+                "Silk Sonic",
+                "Lucky Daye"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 45,
+            "category": "R&B & Soul",
+            "question": "Quel duo formé de Bruno Mars et Anderson .Paak a sorti « Leave the Door Open » en 2021 ?",
+            "options": [
+                "Neptunes",
+                "Silk Sonic",
+                "Soulquarians",
+                "Atlantic Duo"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 46,
+            "category": "R&B & Soul",
+            "question": "Quelle chanteuse a sorti l'album « SOS » en 2022, qui a battu des records sur les charts ?",
+            "options": [
+                "Doja Cat",
+                "Normani",
+                "SZA",
+                "Tinashe"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 47,
+            "category": "R&B & Soul",
+            "question": "Quel album d'Amy Winehouse sorti en 2006 a remporté 5 Grammy Awards ?",
+            "options": [
+                "Frank",
+                "Back to Black",
+                "Lioness",
+                "At the BBC"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 48,
+            "category": "R&B & Soul",
+            "question": "Quel artiste est connu pour son style néo-soul et ses tubes « No Air » et « Ordinary People » ?",
+            "options": [
+                "John Legend",
+                "Anthony Hamilton",
+                "John P. Kee",
+                "Ne-Yo"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 49,
+            "category": "R&B & Soul",
+            "question": "Quel artiste R&B a fondé la marque de cosmétiques Fenty Beauty ?",
+            "options": [
+                "Ne-Yo",
+                "Chris Brown",
+                "Rihanna",
+                "Usher"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 50,
+            "category": "R&B & Soul",
+            "question": "« Clair de lune » de Debussy est souvent samplée dans des productions R&B et lo-fi. À quel siècle appartient cette œuvre ?",
+            "options": [
+                "XVIIIe siècle",
+                "XIXe siècle",
+                "XXe siècle",
+                "XXIe siècle"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 51,
+            "category": "Musique française",
+            "question": "Quel chanteur français a sorti « Les Champs-Élysées » en 1969 et en a fait un hymne populaire ?",
+            "options": [
+                "Claude François",
+                "Joe Dassin",
+                "Michel Sardou",
+                "Jacques Brel"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 52,
+            "category": "Musique française",
+            "question": "Quel artiste belge francophone a rencontré un succès mondial avec « Alors on danse » (2009) ?",
+            "options": [
+                "Angèle",
+                "Stromae",
+                "Roméo Elvis",
+                "Damso"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 53,
+            "category": "Musique française",
+            "question": "Quel est le vrai nom de la chanteuse Zaho de Sagazan ?",
+            "options": [
+                "Zaho de Sagazan est son vrai nom",
+                "Zoé de Saint-Nazaire",
+                "Zahra Bouchita",
+                "Zoé Sagazan"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 54,
+            "category": "Musique française",
+            "question": "Quel rappeur français originaire d'Alençon est connu pour ses textes engagés sur la société ?",
+            "options": [
+                "Médine",
+                "Orelsan",
+                "Nekfeu",
+                "Vald"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 55,
+            "category": "Musique française",
+            "question": "Quel artiste a sorti « Nuit 17 à 52 » en 2013 ?",
+            "options": [
+                "Christine and the Queens",
+                "Fishbach",
+                "Julien Doré",
+                "Clara Luciani"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 56,
+            "category": "Musique française",
+            "question": "Quel artiste français est associé au titre « La Vie en rose », reprise dans le monde entier ?",
+            "options": [
+                "Charles Trenet",
+                "Serge Gainsbourg",
+                "Édith Piaf",
+                "Georges Brassens"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 57,
+            "category": "Musique française",
+            "question": "Quel groupe français des années 2000, mené par une chanteuse aux cheveux roses, a sorti « Je veux te voir » ?",
+            "options": [
+                "La Femme",
+                "Yelle",
+                "Superbus",
+                "Lilly Wood and The Prick"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 58,
+            "category": "Musique française",
+            "question": "Quel artiste français a collaboré avec Daft Punk sur l'album « Random Access Memories » en chantant « Lose Yourself to Dance » ?",
+            "options": [
+                "Kavinsky",
+                "Pharrell Williams",
+                "Nile Rodgers",
+                "Julian Casablancas"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 59,
+            "category": "Musique française",
+            "question": "Quel label français a révélé Justice et Breakbot ?",
+            "options": [
+                "Ed Banger Records",
+                "Def Jam France",
+                "Because Music",
+                "Kitsuné Musique "
+            ],
+            "answer": 1
+        },
+        {
+            "id": 60,
+            "category": "Musique française",
+            "question": "Angèle est la sœur de quel rappeur belge ?",
+            "options": [
+                "Damso",
+                "Roméo Elvis",
+                "Hamza",
+                "Lomepal"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 61,
+            "category": "Théorie musicale",
+            "question": "Combien de demi-tons y a-t-il dans une octave ?",
+            "options": [
+                "7",
+                "10",
+                "12",
+                "14"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 62,
+            "category": "Théorie musicale",
+            "question": "De combien de notes est composé un accord parfait majeur ?",
+            "options": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 63,
+            "category": "Théorie musicale",
+            "question": "Quel signe musical indique qu'une note doit être jouée un demi-ton plus haut ?",
+            "options": [
+                "Bémol (♭)",
+                "Bécarre (♮)",
+                "Dièse (♯)",
+                "Double bémol (𝄫)"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 64,
+            "category": "Théorie musicale",
+            "question": "Que signifie le terme « fortissimo » en musique ?",
+            "options": [
+                "Très lentement",
+                "Très fort",
+                "Avec douceur",
+                "Accélérer progressivement"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 65,
+            "category": "Théorie musicale",
+            "question": "Quel est le BPM (battements par minute) typique d'un morceau de techno ?",
+            "options": [
+                "60-80",
+                "100-120",
+                "130-150",
+                "180-200"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 66,
+            "category": "Théorie musicale",
+            "question": "Combien de temps contient une mesure en 4/4 ?",
+            "options": [
+                "2",
+                "3",
+                "4",
+                "6"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 67,
+            "category": "Théorie musicale",
+            "question": "Quel mode musical (parmi les 7 modes grecs) est utilisé dans beaucoup de musique jazz mélancolique ?",
+            "options": [
+                "Ionien",
+                "Lydien",
+                "Dorien",
+                "Phrygien"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 68,
+            "category": "Théorie musicale",
+            "question": "Comment appelle-t-on le procédé qui consiste à prélever un extrait d'un morceau existant pour l'intégrer dans une nouvelle production ?",
+            "options": [
+                "Remix",
+                "Sample",
+                "Mashup",
+                "Cover"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 69,
+            "category": "Théorie musicale",
+            "question": "Qu'est-ce qu'un « arpège » en musique ?",
+            "options": [
+                "Un accord dont les notes sont jouées séparément",
+                "Une gamme montante et descendante",
+                "Une technique de percussions",
+                "Un ornement joué sur une seule note"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 70,
+            "category": "Théorie musicale",
+            "question": "Quel instrument produit du son grâce à des vibrations d'air dans des tuyaux ?",
+            "options": [
+                "Clavecin",
+                "Orgue",
+                "Synthétiseur",
+                "Clavichord"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 71,
+            "category": "Musique classique",
+            "question": "Quel compositeur a écrit « Les Quatre Saisons » ?",
+            "options": [
+                "Handel",
+                "Vivaldi",
+                "Telemann",
+                "Pachelbel"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 72,
+            "category": "Musique classique",
+            "question": "À quel âge Mozart a-t-il composé sa première symphonie ?",
+            "options": [
+                "5 ans",
+                "8 ans",
+                "10 ans",
+                "14 ans"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 73,
+            "category": "Musique classique",
+            "question": "Quel compositeur romantique polonais est surtout connu pour ses nocturnes et préludes pour piano ?",
+            "options": [
+                "Liszt",
+                "Schubert",
+                "Chopin",
+                "Schumann"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 74,
+            "category": "Musique classique",
+            "question": "Quel terme désigne la musique composée pour être jouée dans une salle de concert avec un grand orchestre ?",
+            "options": [
+                "Opéra",
+                "Musique de chambre",
+                "Symphonie",
+                "Concerto grosso"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 75,
+            "category": "Musique classique",
+            "question": "Qui a composé « Le Sacre du Printemps », œuvre qui a provoqué une émeute lors de sa première en 1913 ?",
+            "options": [
+                "Debussy",
+                "Ravel",
+                "Stravinsky",
+                "Bartók"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 76,
+            "category": "Musique classique",
+            "question": "Quel instrument à cordes pincées est souvent associé à la musique baroque ?",
+            "options": [
+                "Mandoline",
+                "Luth",
+                "Banjo",
+                "Guitare classique"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 77,
+            "category": "Musique classique",
+            "question": "Quel compositeur français est connu pour « Boléro » (1928), une pièce basée sur la répétition d'un même thème ?",
+            "options": [
+                "Saint-Saëns",
+                "Fauré",
+                "Ravel",
+                "Bizet"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 78,
+            "category": "Musique classique",
+            "question": "Dans quel pays est né Johann Sebastian Bach ?",
+            "options": [
+                "Autriche",
+                "Allemagne",
+                "Pays-Bas",
+                "Italie"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 79,
+            "category": "Musique classique",
+            "question": "Comment appelle-t-on un opéra en langue française avec des dialogues parlés (non chantés) ?",
+            "options": [
+                "Opéra seria",
+                "Opéra comique",
+                "Opérette",
+                "Singspiel"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 80,
+            "category": "Musique classique",
+            "question": "Quel est le surnom de la Symphonie n°94 de Haydn, connue pour sa surprise au milieu d'un mouvement calme ?",
+            "options": [
+                "La Tragique",
+                "La Surprise",
+                "La Militaire",
+                "L'Horloge"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 81,
+            "category": "Instruments & Technologie",
+            "question": "Quel célèbre synthétiseur analogique des années 70, produit par Moog, a révolutionné la musique électronique ?",
+            "options": [
+                "Roland TB-303",
+                "Korg Minilogue",
+                "Minimoog",
+                "ARP 2600"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 82,
+            "category": "Instruments & Technologie",
+            "question": "Combien de cordes a une guitare standard ?",
+            "options": [
+                "4",
+                "5",
+                "6",
+                "7"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 83,
+            "category": "Instruments & Technologie",
+            "question": "Quel format de fichier audio est sans perte de qualité (lossless) ?",
+            "options": [
+                "MP3",
+                "AAC",
+                "FLAC",
+                "OGG"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 84,
+            "category": "Instruments & Technologie",
+            "question": "Qu'est-ce qu'un « vocoder » ?",
+            "options": [
+                "Un micro de studio haut de gamme",
+                "Un effet qui fusionne une voix avec un synthétiseur",
+                "Un logiciel de notation musicale",
+                "Un type de basse électrique"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 85,
+            "category": "Instruments & Technologie",
+            "question": "Grâce à quel genre musical la Roland TR-808 est-elle devenue légendaire ?",
+            "options": [
+                "Jazz",
+                "Folk",
+                "Hip-hop et électro",
+                "Country"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 86,
+            "category": "Instruments & Technologie",
+            "question": "Quel est le nom du protocole standard qui permet aux instruments électroniques de communiquer entre eux ?",
+            "options": [
+                "USB-Audio",
+                "MIDI",
+                "OSC",
+                "AES67"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 87,
+            "category": "Instruments & Technologie",
+            "question": "Comment s'appelle le procédé qui permet de générer de la musique via un algorithme ou du code ?",
+            "options": [
+                "Synthèse additive",
+                "Musique générative",
+                "Sampling",
+                "Sidechaining"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 88,
+            "category": "Instruments & Technologie",
+            "question": "Quel type de microphone est le plus couramment utilisé en studio d'enregistrement professionnel ?",
+            "options": [
+                "Microphone dynamique",
+                "Microphone à condensateur",
+                "Microphone à ruban",
+                "Microphone lavalier"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 89,
+            "category": "Instruments & Technologie",
+            "question": "Dans quel pays a été fondé Spotify ?",
+            "options": [
+                "États-Unis",
+                "Finlande",
+                "Suède",
+                "Danemark"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 90,
+            "category": "Instruments & Technologie",
+            "question": "Quel est le rôle d'un compresseur dans le mixage audio ?",
+            "options": [
+                "Augmenter les aigus",
+                "Réduire la dynamique d'un son en atténuant les pics",
+                "Ajouter de la réverbération",
+                "Accélérer le tempo"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 91,
+            "category": "Culture & Anecdotes",
+            "question": "Quel est l'album le plus vendu de tous les temps ?",
+            "options": [
+                "Thriller — Michael Jackson",
+                "Back in Black — AC/DC",
+                "The Dark Side of the Moon — Pink Floyd",
+                "Eagles: Their Greatest Hits — Eagles"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 92,
+            "category": "Culture & Anecdotes",
+            "question": "En quelle année s'est déroulé le festival de Woodstock ?",
+            "options": [
+                "1967",
+                "1969",
+                "1971",
+                "1973"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 93,
+            "category": "Culture & Anecdotes",
+            "question": "Quel artiste est appelé « The King » dans l'univers du rock and roll ?",
+            "options": [
+                "Chuck Berry",
+                "Little Richard",
+                "Elvis Presley",
+                "Jerry Lee Lewis"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 94,
+            "category": "Culture & Anecdotes",
+            "question": "Quel célèbre beatboxer et artiste a popularisé le terme « scat » dans le jazz ?",
+            "options": [
+                "Miles Davis",
+                "Louis Armstrong",
+                "Ella Fitzgerald",
+                "John Coltrane"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 95,
+            "category": "Culture & Anecdotes",
+            "question": "Quel pays a remporté le plus grand nombre de victoires à l'Eurovision ?",
+            "options": [
+                "Suède",
+                "France",
+                "Irlande",
+                "Royaume-Uni"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 96,
+            "category": "Culture & Anecdotes",
+            "question": "Quel groupe de boys band britannique comprenait Zayn Malik avant son départ en 2015 ?",
+            "options": [
+                "Backstreet Boys",
+                "NSYNC",
+                "One Direction",
+                "Take That"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 97,
+            "category": "Culture & Anecdotes",
+            "question": "Quel artiste a performé au Super Bowl 2023 ?",
+            "options": [
+                "Drake",
+                "Jay-Z",
+                "Rihanna elle-même",
+                "Beyoncé"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 98,
+            "category": "Culture & Anecdotes",
+            "question": "Quel est le nom de la plateforme de streaming musical lancée par Apple en 2015 ?",
+            "options": [
+                "Apple Music",
+                "iTunes Radio",
+                "Beats Music",
+                "iStream"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 99,
+            "category": "Culture & Anecdotes",
+            "question": "Jusqu'à quand l'éditeur Warner/Chappell a-t-il revendiqué les droits sur « Happy Birthday to You » ?",
+            "options": [
+                "2016",
+                "1920",
+                "1997",
+                "Elle est encore protégée aujourd'hui"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 100,
+            "category": "Culture & Anecdotes",
+            "question": "Quelle chanson a été la première à dépasser les 8 milliards de vues sur YouTube ?",
+            "options": [
+                "Baby Shark — Pinkfong",
+                "Despacito — Luis Fonsi",
+                "Shape of You — Ed Sheeran",
+                "See You Again — Wiz Khalifa"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 101,
+            "category":"Électro & Dance",
+            "question": "Quel collectif de DJs français réunit DJ Snake, Tchami et Mercer ?",
+            "options": [
+                "Pardon My French",
+                "Club Cheval",
+                "Bromance Records",
+                "Marble"
+            ],
+            "answer": 0
+        }
+    ]
+}
