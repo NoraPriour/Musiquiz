@@ -21,6 +21,10 @@ function startQuiz() {
             score = 0;
 
             showQuestion();
+            document.getElementById("quiz-container").scrollIntoView({
+                behavior: "smooth",
+                block: "center"
+            });
         })
         .catch(error => {
             console.error("Erreur:", error);
