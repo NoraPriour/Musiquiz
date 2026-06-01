@@ -2,6 +2,10 @@
 
 Musiquiz est un quiz musical interactif en français. À chaque partie, l'application sélectionne aléatoirement 10 questions parmi une banque de plus de 100 questions.
 
+## Démo
+
+[Jouer à Musiquiz](https://norapriour.github.io/Musiquiz/)
+
 ## Fonctionnalités
 
 - tirage aléatoire de 10 questions ;
